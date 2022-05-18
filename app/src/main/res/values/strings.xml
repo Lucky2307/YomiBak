@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Translate</string>
+    <string name="welcome_words">Welcome to Yomi</string>
+    <string name="slogan">Kanji at the tip of your fingers</string>
+    <string name="version">Version 0.1.0</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="channel_name">Tesseract Channel</string>
+    <string name="channel_description">Tesseract Description</string>
+
+    <string name="about">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    </string>
+</resources>
