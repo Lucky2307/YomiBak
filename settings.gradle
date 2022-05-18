@@ -15,5 +15,5 @@ dependencyResolutionManagement {
 }
 
 
-rootProject.name = "Translate"
+rootProject.name = "Yomi"
 include ':app'
